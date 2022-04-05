@@ -16,7 +16,7 @@ aliases: [ /language/functions/advanced-io/noTone/ ]
 
 [float]
 === Description
-Stops the generation of a square wave triggered by `tone()`. Has no effect if no tone is being generated.
+Met un terme à la génération d'un signal carré crée par `tone()`. N'a pas d'effet si il n'y avait pas de signal carré
 [%hardbreaks]
 
 
@@ -27,11 +27,11 @@ Stops the generation of a square wave triggered by `tone()`. Has no effect if no
 
 [float]
 === Parameters
-`pin`: the Arduino pin on which to stop generating the tone
+`pin`: la broche sur laquelle arrêtr le signal
 
 [float]
 === Returns
-Nothing
+Rien
 
 --
 // OVERVIEW SECTION ENDS
